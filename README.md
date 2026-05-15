@@ -14,13 +14,13 @@ A complete computer vision pipeline that detects **humans and cars** in drone/ae
 ## 📸 Results
 
 ### Detection + Human Counting
-![Detection Results](outputs/detection_results.png)
+![Detection Results](outputs/output/detection_results.png)
 
 ### Training Curves (50 Epochs)
-![Training Curves](outputs/results.png)
+![Training Curves](outputs/output/results.png)
 
 ### Validation Batch Predictions
-![Val Predictions](outputs/val_batch0_pred.jpg)
+![Val Predictions](outputs/output/val_batch0_pred.jpg)
 
 ---
 
